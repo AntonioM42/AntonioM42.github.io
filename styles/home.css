@@ -12,6 +12,7 @@
 
 .posts>li {
     margin: .05em 0;
+    padding-bottom: 1.5%;
 }
 
 .posts>li>a {
@@ -23,7 +24,7 @@
 .section-title {
     font-weight: bold;
     padding: 0 1%;
-    padding-bottom: 1%;
+    padding-bottom: 1.5%;
     margin-bottom: 1%;
     border-bottom: 2px solid rgb(123, 78, 0);
 }
